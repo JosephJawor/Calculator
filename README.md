@@ -1,0 +1,7 @@
+The calculator is a straightforward web application designed to perform basic arithmetic operations, developed using HTML, CSS, and JavaScript. Though fairly basic, this was my first project that I had created using different tutorials as well as working with people in the bootcamp I am part of and also just playing around with the code to get it to look and operate the way I would like it too. The HTML structure is clean and organized, featuring an input field for displaying results and a grid layout for the buttons.
+
+For styling, I opted for a modern looking but traditional design with a gray background and subtle shadows to enhance depth. Utilizing CSS Grid allowed me to create an intuitive button layout reminiscent of traditional calculators. Each button features hover effects, and I employed distinct colors for various button types to improve usability. The equals button spans multiple rows, ensuring it stands out.
+
+With the JavaScript, I implemented event listeners for all buttons, allowing users to clear the display, append values, and calculate results. While I used the eval() function for calculations, understanding its limitations, I found it suitable for this simple project.
+
+Looking ahead, I plan to enhance this project by adding advanced functions, implementing keyboard support, and refining the code using more modern JavaScript practices. Your feedback and suggestions for improvement are always welcome, Thank you!
